@@ -334,3 +334,15 @@
 1475274681 d:\projects\automix\include\commondefs.h
 	<stdlib.h>
 
+1475335314 source:/home/pi/Projects/Automix/src/Track.cpp
+	"Track.h"
+
+1475339640 /home/pi/Projects/Automix/include/Track.h
+	<SDL.h>
+	<SDL2/SDL.h>
+	"CommonDefs.h"
+	<string>
+
+1475335314 /home/pi/Projects/Automix/include/CommonDefs.h
+	<stdlib.h>
+
