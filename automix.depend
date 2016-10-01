@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1474326927 source:d:\projects\automix\main.cpp
+1474415227 source:d:\projects\automix\main.cpp
 	<iostream>
 	<SDL.h>
 
@@ -317,4 +317,20 @@
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
+
+1475276448 source:d:\projects\automix\src\main.cpp
+	<iostream>
+	<SDL.h>
+	"Track.h"
+
+1475274681 d:\projects\automix\include\track.h
+	<SDL.h>
+	"CommonDefs.h"
+	<string>
+
+1474585252 source:d:\projects\automix\src\track.cpp
+	"Track.h"
+
+1475274681 d:\projects\automix\include\commondefs.h
+	<stdlib.h>
 
